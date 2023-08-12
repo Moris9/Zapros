@@ -1,0 +1,9 @@
+[package]
+name = "Zapros"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+url = "2.4.0"
+dns-lookup = "2.0.2"
+serde_json = "1.0.104"
